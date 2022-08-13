@@ -1,0 +1,12 @@
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\bin\Debug\net6.0\SampleApplication.Domain.deps.json
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\bin\Debug\net6.0\SampleApplication.Domain.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\bin\Debug\net6.0\SampleApplication.Domain.pdb
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.csproj.AssemblyReference.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.AssemblyInfoInputs.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.AssemblyInfo.cs
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.csproj.CoreCompileInputs.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\refint\SampleApplication.Domain.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\SampleApplication.Domain.pdb
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Domain\obj\Debug\net6.0\ref\SampleApplication.Domain.dll

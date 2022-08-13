@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSDDE8Dezrz8suwWCs7oi+p7g1RwLguCiHNUDDSnTL7pFYSWgC+vF2Ntc44TsidCId8WtZZ/RtKMAbrCkcMPkw==",
+  "success": true,
+  "projectFilePath": "E:\\Pro\\SampleApplication\\SampleApplication\\SampleApplication.Domain\\SampleApplication.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\granit.sadiku\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\granit.sadiku\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

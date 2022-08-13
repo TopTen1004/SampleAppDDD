@@ -1,0 +1,17 @@
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Infrastructure.deps.json
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Infrastructure.runtimeconfig.json
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Infrastructure.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Infrastructure.pdb
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.csproj.AssemblyReference.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.AssemblyInfoInputs.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.AssemblyInfo.cs
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\refint\SampleApplication.Infrastructure.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.pdb
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.genruntimeconfig.cache
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\ref\SampleApplication.Infrastructure.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Domain.dll
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\bin\Debug\net6.0\SampleApplication.Domain.pdb
+E:\Pro\SampleApplication\SampleApplication\SampleApplication.Infrastructure\obj\Debug\net6.0\SampleApplication.Infrastructure.csproj.CopyComplete
